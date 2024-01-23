@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kar/1.0.0": {
+        "dependencies": {
+          "karim": "1.0.0"
+        },
+        "runtime": {
+          "kar.dll": {}
+        }
+      },
+      "karim/1.0.0": {
+        "runtime": {
+          "karim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "karim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
